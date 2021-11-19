@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "find.h"
+#include "incomes.h"
+#include "industries.h"
+#include "process.h"
+#include "provinces.h"
+#include "shared.h"
+#include "sum.h"
